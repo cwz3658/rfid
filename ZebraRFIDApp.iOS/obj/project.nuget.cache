@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVK7Z3E8cnmdaLvo2niNS3jxUSi0RO+Z5UAhsMOUWLWvTZ0TmsIOVFkIQtlRAFmJn9jZfHoH/9PlErWDnfhTSQ==",
+  "success": true,
+  "projectFilePath": "/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/ZebraRFIDApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/chen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/chen/.nuget/packages/xamarin.essentials/1.1.0/xamarin.essentials.1.1.0.nupkg.sha512",
+    "/Users/chen/.nuget/packages/xamarin.forms/4.1.0.581479/xamarin.forms.4.1.0.581479.nupkg.sha512"
+  ],
+  "logs": []
+}

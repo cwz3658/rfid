@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@2x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@2x~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@3x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@2x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@2x~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@3x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@2x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@2x~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@3x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon60x60@3x.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon76x76~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon83.5x83.5@2x~ipad.png</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car</string>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnInv.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnInv" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_antn.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_antn" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnLocate.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnLocate" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_sett.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_sett" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnAccess.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnAccess" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnRapidRead.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnRapidRead" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_pwr_on.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_pwr_on" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_rr.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_rr" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_rdl.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_rdl" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_loc.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_loc" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_beep.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_beep" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./rightArrow.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "rightArrow" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_singl.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_singl" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_batt.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_batt" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnSett.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnSett" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_tags.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_tags" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_strstp.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_strstp" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_inv.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_inv" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_save.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_save" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_access.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_access" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnFilter.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnFilter" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_reg.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_reg" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_antn.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_antn.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_antn" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_tags.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_tags.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_tags" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_inv.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_inv.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_inv" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_singl.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_singl.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_singl" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnFilter.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnFilter.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnFilter" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_loc.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_loc.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_loc" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_sett.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_sett.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_sett" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_save.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_save.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_save" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./rightArrow.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./rightArrow.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "rightArrow" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_rdl.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_rdl.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_rdl" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_rr.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_rr.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_rr" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnInv.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnInv.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnInv" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_batt.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_batt.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_batt" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_pwr_on.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_pwr_on.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_pwr_on" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnAccess.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnAccess.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnAccess" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_reg.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_reg.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_reg" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnLocate.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnLocate.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnLocate" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./tab_access.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./tab_access.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "tab_access" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_strstp.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_strstp.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_strstp" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnSett.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnSett.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnSett" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./btnRapidRead.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./btnRapidRead.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "btnRapidRead" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./title_beep.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./title_beep.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "title_beep" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

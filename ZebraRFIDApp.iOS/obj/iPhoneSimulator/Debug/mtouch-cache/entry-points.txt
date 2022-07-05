@@ -1,0 +1,152 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_release_managed_ref
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_exception
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_exception
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAccessConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAccessCriteria
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAccessOperationCode
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAccessParameters
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAntennaConfiguration
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidAttribute
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidBatteryEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidDatabaseEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidDynamicPowerConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidLinkProfile
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidOperEndSummaryEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidPowerEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidPreFilter
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidRadioErrorEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidReaderCapabilitiesInfo
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidReaderInfo
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidReaderVersionInfo
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidRegionInfo
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidRegulatoryConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidReportConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidSdkFactory
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidSingulationConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidStartTriggerConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidStopTriggerConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidTagData
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidTagFilter
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidTagReportConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidTemperatureEvent
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidUniqueTagsReport
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_srfidUntraceableConfig
+	/Users/chen/Downloads/RFIDSDK_Xamarin_DemoApp_v1.0-2.9/ZebraRFIDApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/ZebraiOSRfidLibrary.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
